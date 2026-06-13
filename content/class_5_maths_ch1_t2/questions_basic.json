@@ -1,0 +1,6 @@
+[
+  {"id":"c5m_ch1t2_b1","questionText":"1/5 + 2/5 = ?","options":["3/5","3/10","2/5","1/5"],"correctOptionIndex":0,"standardExplanation":"Same denominator: 1+2=3, keep 5. Answer: 3/5.","memoryTrick":"Same denominator unte numerators add cheyyi! 1+2=3 → 3/5 🎯"},
+  {"id":"c5m_ch1t2_b2","questionText":"1/3 + 1/6 = ?","options":["1/2","2/9","1/3","2/6"],"correctOptionIndex":0,"standardExplanation":"LCM(3,6)=6. 1/3=2/6. 2/6+1/6=3/6=1/2.","memoryTrick":"LCM=6 → convert → add: 2+1=3 → 3/6=1/2 🧮"},
+  {"id":"c5m_ch1t2_b3","questionText":"2/7 + 3/7 = ?","options":["5/7","5/14","6/7","1"],"correctOptionIndex":0,"standardExplanation":"Same denominator: 2+3=5. Answer: 5/7.","memoryTrick":"Like fractions — straight ga add! 2+3=5 → 5/7 ✅"},
+  {"id":"c5m_ch1t2_b4","questionText":"1/4 + 1/4 + 1/4 = ?","options":["3/4","3/12","1/4","1"],"correctOptionIndex":0,"standardExplanation":"1+1+1=3 over 4. Answer: 3/4.","memoryTrick":"3 quarters = ముప్పావు 🪙🪙🪙"}
+]
