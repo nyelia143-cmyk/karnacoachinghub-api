@@ -1,0 +1,6 @@
+[
+  {"id":"c5m_ch1t1_m1","questionText":"2/3 + 3/4 = ?","options":["17/12","5/7","5/12","6/7"],"correctOptionIndex":0,"standardExplanation":"LCM of 3,4 = 12. 2/3 = 8/12, 3/4 = 9/12. 8+9 = 17/12.","memoryTrick":"LCM కనుక్కో → convert → add. 12 common floor 🏠"},
+  {"id":"c5m_ch1t1_m2","questionText":"Arrange ascending: 3/4, 1/2, 5/8","options":["1/2, 5/8, 3/4","3/4, 5/8, 1/2","5/8, 1/2, 3/4","1/2, 3/4, 5/8"],"correctOptionIndex":0,"standardExplanation":"Convert to /8: 1/2=4/8, 5/8=5/8, 3/4=6/8. Order: 4,5,6.","memoryTrick":"అందరికీ same denominator ఇచ్చి line లో నిలబెట్టు! 📏"},
+  {"id":"c5m_ch1t1_m3","questionText":"5/6 - 1/3 = ?","options":["1/2","4/6","2/3","4/3"],"correctOptionIndex":0,"standardExplanation":"1/3 = 2/6. So 5/6 - 2/6 = 3/6 = 1/2.","memoryTrick":"6 కి convert → subtract → simplify. Easy! 🧮"},
+  {"id":"c5m_ch1t1_m4","questionText":"Convert 2¾ to improper fraction:","options":["11/4","9/4","10/4","8/4"],"correctOptionIndex":0,"standardExplanation":"2¾ = (2×4 + 3)/4 = 11/4","memoryTrick":"Whole × Denominator + Numerator = New top! 2×4+3=11 → 11/4 🔄"}
+]
