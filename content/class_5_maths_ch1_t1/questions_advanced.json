@@ -1,0 +1,5 @@
+[
+  {"id":"c5m_ch1t1_a1","questionText":"(3/4 × 2/5) + 1/10 = ?","options":["2/5","3/10","7/20","1/4"],"correctOptionIndex":0,"standardExplanation":"3/4 × 2/5 = 6/20 = 3/10. Then 3/10 + 1/10 = 4/10 = 2/5.","memoryTrick":"BODMAS! ముందు multiply → simplify → add 🎯"},
+  {"id":"c5m_ch1t1_a2","questionText":"A rope is 7/8 m. 3/8 m cut. Remaining?","options":["4/8 m","1/2 m","Both A & B","5/8 m"],"correctOptionIndex":2,"standardExplanation":"7/8 - 3/8 = 4/8 = 1/2 m. Both are correct.","memoryTrick":"తాడు cut: 7-3=4 pieces out of 8. 4/8 = 1/2! ✂️"},
+  {"id":"c5m_ch1t1_a3","questionText":"If 2/3 of a number is 18, the number is:","options":["27","12","36","24"],"correctOptionIndex":0,"standardExplanation":"2/3 × x = 18. x = 18 × 3/2 = 27.","memoryTrick":"Reverse operation: 18 ni fraction tho flip chesi multiply! 18 × 3 ÷ 2 = 27 🔄"}
+]
