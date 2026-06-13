@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which element has the chemical symbol 'Fe'?",
+    "options": ["Fluorine", "Iron", "Ferrum/Gold", "Phosphorus"],
+    "correctOptionIndex": 1,
+    "standardExplanation": "The chemical symbol 'Fe' comes from the Latin word 'Ferrum', which translates to Iron in English.",
+    "memoryTrick": "Fe అనేది 'Fee' లాగా ఉంటుంది. 'Iron' Man కాలేజ్ లో సీటు రావడానికి ఎక్కువ 'Fee' కట్టాల్సి వచ్చింది అని గుర్తుపెట్టుకోండి."
+  },
+  {
+    "id": 2,
+    "questionText": "In which state is the famous Ajanta Caves located?",
+    "options": ["Madhya Pradesh", "Karnataka", "Maharashtra", "Gujarat"],
+    "correctOptionIndex": 2,
+    "standardExplanation": "Ajanta Caves are located in the Aurangabad district of Maharashtra. They are UNESCO World Heritage Sites.",
+    "memoryTrick": "Ajanta లో 'Jan' (జనాలు) ఉన్నారు. ప్రతీ ఒక్కరు 'Maha-Rashtra' (మహారాష్ట్ర) లీడర్లు లాగా ఫీల్ అవుతుంటారు అని లింక్ చేసుకోండి."
+  },
+  {
+    "id": 3,
+    "questionText": "Who invented the Electric Bulb?",
+    "options": ["Nikola Tesla", "Albert Einstein", "Thomas Alva Edison", "Benjamin Franklin"],
+    "correctOptionIndex": 2,
+    "standardExplanation": "Thomas Alva Edison patented the first commercially practical incandescent light bulb in 1879.",
+    "memoryTrick": "Bulb వెలిగితే 'Alva' (హల్వా) తిన్నంత ఆనందం కలుగుతుంది. అల్వా -> Thomas Alva Edison."
+  }
+]
