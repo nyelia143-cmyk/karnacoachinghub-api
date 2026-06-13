@@ -1,0 +1,107 @@
+{
+  "rooms": [
+    {
+      "id": "class_5",
+      "name": "Class 5",
+      "nameLocal": "5వ తరగతి",
+      "category": "PRIMARY",
+      "displayOrder": 8,
+      "iconEmoji": "5️⃣",
+      "colorHex": "#009688",
+      "subjects": [
+        {
+          "id": "class_5_maths",
+          "name": "Mathematics",
+          "nameLocal": "గణితం",
+          "iconEmoji": "🔢",
+          "colorHex": "#4CAF50",
+          "displayOrder": 1,
+          "chapters": [
+            {
+              "id": "class_5_maths_ch1",
+              "name": "Fractions",
+              "nameLocal": "భిన్నాలు",
+              "displayOrder": 1,
+              "topics": [
+                {
+                  "id": "class_5_maths_ch1_t1",
+                  "name": "Understanding Fractions",
+                  "nameLocal": "భిన్నాల అవగాహన",
+                  "displayOrder": 1
+                },
+                {
+                  "id": "class_5_maths_ch1_t2",
+                  "name": "Adding Fractions",
+                  "nameLocal": "భిన్నాల కూడిక",
+                  "displayOrder": 2
+                }
+              ]
+            },
+            {
+              "id": "class_5_maths_ch2",
+              "name": "Decimals",
+              "nameLocal": "దశాంశాలు",
+              "displayOrder": 2,
+              "topics": [
+                {
+                  "id": "class_5_maths_ch2_t1",
+                  "name": "Decimal Place Values",
+                  "nameLocal": "దశాంశ స్థాన విలువలు",
+                  "displayOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class_5_science",
+          "name": "Science",
+          "nameLocal": "సైన్స్",
+          "iconEmoji": "🔬",
+          "colorHex": "#2196F3",
+          "displayOrder": 2,
+          "chapters": [
+            {
+              "id": "class_5_science_ch1",
+              "name": "Living Things",
+              "nameLocal": "జీవులు",
+              "displayOrder": 1,
+              "topics": [
+                {
+                  "id": "class_5_science_ch1_t1",
+                  "name": "Parts of a Plant",
+                  "nameLocal": "మొక్క భాగాలు",
+                  "displayOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class_5_telugu",
+          "name": "Telugu",
+          "nameLocal": "తెలుగు",
+          "iconEmoji": "📝",
+          "colorHex": "#FF9800",
+          "displayOrder": 3,
+          "chapters": [
+            {
+              "id": "class_5_telugu_ch1",
+              "name": "Padyalu",
+              "nameLocal": "పద్యాలు",
+              "displayOrder": 1,
+              "topics": [
+                {
+                  "id": "class_5_telugu_ch1_t1",
+                  "name": "Sumathi Sathakam",
+                  "nameLocal": "సుమతీ శతకం",
+                  "displayOrder": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
