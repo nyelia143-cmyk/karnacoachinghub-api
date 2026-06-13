@@ -1,0 +1,7 @@
+[
+  {"id":"c5m_ch3t1_b1","questionText":"A right angle measures:","options":["90°","180°","45°","360°"],"correctOptionIndex":0,"standardExplanation":"A right angle = 90 degrees exactly.","memoryTrick":"Right angle = L shape = 90° 📐 English L లాగా ఉంటుంది!"},
+  {"id":"c5m_ch3t1_b2","questionText":"An angle less than 90° is called:","options":["Acute angle","Obtuse angle","Right angle","Straight angle"],"correctOptionIndex":0,"standardExplanation":"Acute = less than 90°. Obtuse = more than 90°.","memoryTrick":"'A'cute = 'A' little = చిన్నది! 90° కన్నా తక్కువ 🔺"},
+  {"id":"c5m_ch3t1_b3","questionText":"How many degrees in a straight line?","options":["180°","90°","360°","270°"],"correctOptionIndex":0,"standardExplanation":"A straight line = 180 degrees.","memoryTrick":"Straight line = Semi-circle = half of 360° = 180° ➡️"},
+  {"id":"c5m_ch3t1_b4","questionText":"Sum of angles in a triangle is:","options":["180°","360°","90°","270°"],"correctOptionIndex":0,"standardExplanation":"All three angles of any triangle add up to 180°.","memoryTrick":"TRI = 3 angles. 3 angles sum = 180°. Triangle fold chesi straight line avutundi! 📐"},
+  {"id":"c5m_ch3t1_b5","questionText":"An angle of 120° is called:","options":["Obtuse","Acute","Right","Reflex"],"correctOptionIndex":0,"standardExplanation":"120° > 90° but < 180°. So it's obtuse.","memoryTrick":"90° దాటితే Obtuse! 'O'btuse = 'O'ver 90° 🎯"}
+]
