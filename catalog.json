@@ -1,0 +1,277 @@
+{
+  "rooms": [
+    {
+      "id": "nursery",
+      "name": "Nursery",
+      "nameLocal": "నర్సరీ",
+      "category": "PRE_PRIMARY",
+      "displayOrder": 1,
+      "iconEmoji": "🌈",
+      "colorHex": "#E91E63",
+      "subjects": [
+        {"id": "nursery_telugu", "name": "Telugu Aksharalu", "nameLocal": "తెలుగు అక్షరాలు", "iconEmoji": "అ", "colorHex": "#FF5722", "displayOrder": 1, "chapters": [
+          {"id": "nursery_telugu_ch1", "name": "Achulu", "nameLocal": "అచ్చులు", "displayOrder": 1, "topics": [
+            {"id": "nursery_telugu_ch1_t1", "name": "అ ఆ ఇ ఈ", "nameLocal": "మొదటి అచ్చులు", "displayOrder": 1}
+          ]}
+        ]},
+        {"id": "nursery_numbers", "name": "Numbers", "nameLocal": "అంకెలు", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 2, "chapters": [
+          {"id": "nursery_numbers_ch1", "name": "Counting 1-10", "nameLocal": "1-10 లెక్కింపు", "displayOrder": 1, "topics": [
+            {"id": "nursery_numbers_ch1_t1", "name": "Numbers 1 to 5", "nameLocal": "1 నుండి 5 అంకెలు", "displayOrder": 1},
+            {"id": "nursery_numbers_ch1_t2", "name": "Numbers 6 to 10", "nameLocal": "6 నుండి 10 అంకెలు", "displayOrder": 2}
+          ]}
+        ]},
+        {"id": "nursery_english", "name": "English Alphabets", "nameLocal": "ఇంగ్లీష్ అక్షరాలు", "iconEmoji": "🔤", "colorHex": "#2196F3", "displayOrder": 3, "chapters": [
+          {"id": "nursery_english_ch1", "name": "A to Z", "nameLocal": "A నుండి Z", "displayOrder": 1, "topics": [
+            {"id": "nursery_english_ch1_t1", "name": "A to E", "nameLocal": "A నుండి E", "displayOrder": 1}
+          ]}
+        ]},
+        {"id": "nursery_gk", "name": "General Knowledge", "nameLocal": "సాధారణ జ్ఞానం", "iconEmoji": "🌍", "colorHex": "#FF9800", "displayOrder": 4, "chapters": [
+          {"id": "nursery_gk_ch1", "name": "Colors & Shapes", "nameLocal": "రంగులు & ఆకారాలు", "displayOrder": 1, "topics": [
+            {"id": "nursery_gk_ch1_t1", "name": "Colors", "nameLocal": "రంగులు", "displayOrder": 1},
+            {"id": "nursery_gk_ch1_t2", "name": "Shapes", "nameLocal": "ఆకారాలు", "displayOrder": 2}
+          ]}
+        ]}
+      ]
+    },
+    {
+      "id": "lkg",
+      "name": "LKG",
+      "nameLocal": "ఎల్.కె.జి",
+      "category": "PRE_PRIMARY",
+      "displayOrder": 2,
+      "iconEmoji": "🌸",
+      "colorHex": "#9C27B0",
+      "subjects": [
+        {"id": "lkg_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "అ", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "lkg_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "🔤", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "lkg_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "lkg_gk", "name": "GK", "nameLocal": "సాధారణ జ్ఞానం", "iconEmoji": "🌍", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []}
+      ]
+    },
+    {
+      "id": "ukg",
+      "name": "UKG",
+      "nameLocal": "యు.కె.జి",
+      "category": "PRE_PRIMARY",
+      "displayOrder": 3,
+      "iconEmoji": "🌻",
+      "colorHex": "#673AB7",
+      "subjects": [
+        {"id": "ukg_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "అ", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "ukg_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "🔤", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "ukg_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "ukg_gk", "name": "GK", "nameLocal": "సాధారణ జ్ఞానం", "iconEmoji": "🌍", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []}
+      ]
+    },
+    {
+      "id": "class_1", "name": "Class 1", "nameLocal": "1వ తరగతి", "category": "PRIMARY", "displayOrder": 4, "iconEmoji": "1️⃣", "colorHex": "#3F51B5",
+      "subjects": [
+        {"id": "class_1_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "class_1_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "class_1_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "class_1_evs", "name": "EVS", "nameLocal": "పర్యావరణ శాస్త్రం", "iconEmoji": "🌿", "colorHex": "#8BC34A", "displayOrder": 4, "chapters": []}
+      ]
+    },
+    {
+      "id": "class_2", "name": "Class 2", "nameLocal": "2వ తరగతి", "category": "PRIMARY", "displayOrder": 5, "iconEmoji": "2️⃣", "colorHex": "#2196F3",
+      "subjects": [
+        {"id": "class_2_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "class_2_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "class_2_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "class_2_evs", "name": "EVS", "nameLocal": "పర్యావరణ శాస్త్రం", "iconEmoji": "🌿", "colorHex": "#8BC34A", "displayOrder": 4, "chapters": []}
+      ]
+    },
+    {
+      "id": "class_3", "name": "Class 3", "nameLocal": "3వ తరగతి", "category": "PRIMARY", "displayOrder": 6, "iconEmoji": "3️⃣", "colorHex": "#03A9F4",
+      "subjects": [
+        {"id": "class_3_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "class_3_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "class_3_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "class_3_evs", "name": "EVS", "nameLocal": "పర్యావరణ శాస్త్రం", "iconEmoji": "🌿", "colorHex": "#8BC34A", "displayOrder": 4, "chapters": []}
+      ]
+    },
+    {
+      "id": "class_4", "name": "Class 4", "nameLocal": "4వ తరగతి", "category": "PRIMARY", "displayOrder": 7, "iconEmoji": "4️⃣", "colorHex": "#00BCD4",
+      "subjects": [
+        {"id": "class_4_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "class_4_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "class_4_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+        {"id": "class_4_science", "name": "Science", "nameLocal": "సైన్స్", "iconEmoji": "🔬", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []},
+        {"id": "class_4_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 5, "chapters": []}
+      ]
+    },
+    {
+      "id": "class_5",
+      "name": "Class 5",
+      "nameLocal": "5వ తరగతి",
+      "category": "PRIMARY",
+      "displayOrder": 8,
+      "iconEmoji": "5️⃣",
+      "colorHex": "#009688",
+      "subjects": [
+        {
+          "id": "class_5_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1,
+          "chapters": [
+            {"id": "class_5_telugu_ch1", "name": "Padyalu", "nameLocal": "పద్యాలు", "displayOrder": 1, "topics": [
+              {"id": "class_5_telugu_ch1_t1", "name": "Sumathi Sathakam", "nameLocal": "సుమతీ శతకం", "displayOrder": 1},
+              {"id": "class_5_telugu_ch1_t2", "name": "Vemana Padyalu", "nameLocal": "వేమన పద్యాలు", "displayOrder": 2}
+            ]},
+            {"id": "class_5_telugu_ch2", "name": "Gadyalu", "nameLocal": "గద్యాలు", "displayOrder": 2, "topics": [
+              {"id": "class_5_telugu_ch2_t1", "name": "Kathalu", "nameLocal": "కథలు", "displayOrder": 1}
+            ]},
+            {"id": "class_5_telugu_ch3", "name": "Vyakaranam", "nameLocal": "వ్యాకరణం", "displayOrder": 3, "topics": [
+              {"id": "class_5_telugu_ch3_t1", "name": "Sandhi", "nameLocal": "సంధులు", "displayOrder": 1},
+              {"id": "class_5_telugu_ch3_t2", "name": "Samasalu", "nameLocal": "సమాసాలు", "displayOrder": 2}
+            ]}
+          ]
+        },
+        {
+          "id": "class_5_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2,
+          "chapters": [
+            {"id": "class_5_english_ch1", "name": "Grammar", "nameLocal": "వ్యాకరణం", "displayOrder": 1, "topics": [
+              {"id": "class_5_english_ch1_t1", "name": "Parts of Speech", "nameLocal": "పార్ట్స్ ఆఫ్ స్పీచ్", "displayOrder": 1},
+              {"id": "class_5_english_ch1_t2", "name": "Tenses", "nameLocal": "టెన్సెస్", "displayOrder": 2},
+              {"id": "class_5_english_ch1_t3", "name": "Articles", "nameLocal": "ఆర్టికల్స్", "displayOrder": 3}
+            ]},
+            {"id": "class_5_english_ch2", "name": "Vocabulary", "nameLocal": "పదజాలం", "displayOrder": 2, "topics": [
+              {"id": "class_5_english_ch2_t1", "name": "Synonyms & Antonyms", "nameLocal": "పర్యాయపదాలు & వ్యతిరేక పదాలు", "displayOrder": 1}
+            ]}
+          ]
+        },
+        {
+          "id": "class_5_maths",
+          "name": "Mathematics",
+          "nameLocal": "గణితం",
+          "iconEmoji": "🔢",
+          "colorHex": "#4CAF50",
+          "displayOrder": 3,
+          "chapters": [
+            {
+              "id": "class_5_maths_ch1", "name": "Fractions", "nameLocal": "భిన్నాలు", "displayOrder": 1,
+              "topics": [
+                {"id": "class_5_maths_ch1_t1", "name": "Understanding Fractions", "nameLocal": "భిన్నాల అవగాహన", "displayOrder": 1},
+                {"id": "class_5_maths_ch1_t2", "name": "Adding Fractions", "nameLocal": "భిన్నాల కూడిక", "displayOrder": 2},
+                {"id": "class_5_maths_ch1_t3", "name": "Subtracting Fractions", "nameLocal": "భిన్నాల తీసివేత", "displayOrder": 3}
+              ]
+            },
+            {
+              "id": "class_5_maths_ch2", "name": "Decimals", "nameLocal": "దశాంశాలు", "displayOrder": 2,
+              "topics": [
+                {"id": "class_5_maths_ch2_t1", "name": "Decimal Place Values", "nameLocal": "దశాంశ స్థాన విలువలు", "displayOrder": 1},
+                {"id": "class_5_maths_ch2_t2", "name": "Adding Decimals", "nameLocal": "దశాంశాల కూడిక", "displayOrder": 2}
+              ]
+            },
+            {
+              "id": "class_5_maths_ch3", "name": "Geometry", "nameLocal": "రేఖాగణితం", "displayOrder": 3,
+              "topics": [
+                {"id": "class_5_maths_ch3_t1", "name": "Angles", "nameLocal": "కోణాలు", "displayOrder": 1},
+                {"id": "class_5_maths_ch3_t2", "name": "Triangles", "nameLocal": "త్రిభుజాలు", "displayOrder": 2},
+                {"id": "class_5_maths_ch3_t3", "name": "Area & Perimeter", "nameLocal": "వైశాల్యం & చుట్టుకొలత", "displayOrder": 3}
+              ]
+            },
+            {
+              "id": "class_5_maths_ch4", "name": "Measurement", "nameLocal": "కొలతలు", "displayOrder": 4,
+              "topics": [
+                {"id": "class_5_maths_ch4_t1", "name": "Length", "nameLocal": "పొడవు", "displayOrder": 1},
+                {"id": "class_5_maths_ch4_t2", "name": "Weight", "nameLocal": "బరువు", "displayOrder": 2},
+                {"id": "class_5_maths_ch4_t3", "name": "Time", "nameLocal": "సమయం", "displayOrder": 3}
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class_5_science", "name": "Science", "nameLocal": "సైన్స్", "iconEmoji": "🔬", "colorHex": "#FF9800", "displayOrder": 4,
+          "chapters": [
+            {"id": "class_5_science_ch1", "name": "Living Things", "nameLocal": "జీవులు", "displayOrder": 1, "topics": [
+              {"id": "class_5_science_ch1_t1", "name": "Parts of a Plant", "nameLocal": "మొక్క భాగాలు", "displayOrder": 1},
+              {"id": "class_5_science_ch1_t2", "name": "Human Body Systems", "nameLocal": "మానవ శరీర వ్యవస్థలు", "displayOrder": 2}
+            ]},
+            {"id": "class_5_science_ch2", "name": "Matter & Materials", "nameLocal": "పదార్థం & పదార్థాలు", "displayOrder": 2, "topics": [
+              {"id": "class_5_science_ch2_t1", "name": "States of Matter", "nameLocal": "పదార్థ స్థితులు", "displayOrder": 1},
+              {"id": "class_5_science_ch2_t2", "name": "Mixtures & Solutions", "nameLocal": "మిశ్రమాలు & ద్రావణాలు", "displayOrder": 2}
+            ]},
+            {"id": "class_5_science_ch3", "name": "Earth & Space", "nameLocal": "భూమి & అంతరిక్షం", "displayOrder": 3, "topics": [
+              {"id": "class_5_science_ch3_t1", "name": "Solar System", "nameLocal": "సౌర వ్యవస్థ", "displayOrder": 1}
+            ]}
+          ]
+        },
+        {
+          "id": "class_5_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 5,
+          "chapters": [
+            {"id": "class_5_social_ch1", "name": "Our Country India", "nameLocal": "మన దేశం భారతదేశం", "displayOrder": 1, "topics": [
+              {"id": "class_5_social_ch1_t1", "name": "States & Capitals", "nameLocal": "రాష్ట్రాలు & రాజధానులు", "displayOrder": 1},
+              {"id": "class_5_social_ch1_t2", "name": "National Symbols", "nameLocal": "జాతీయ చిహ్నాలు", "displayOrder": 2}
+            ]}
+          ]
+        },
+        {
+          "id": "class_5_hindi", "name": "Hindi", "nameLocal": "హిందీ", "iconEmoji": "🇮🇳", "colorHex": "#E91E63", "displayOrder": 6,
+          "chapters": [
+            {"id": "class_5_hindi_ch1", "name": "Vyakaran", "nameLocal": "వ్యాకరణం", "displayOrder": 1, "topics": [
+              {"id": "class_5_hindi_ch1_t1", "name": "Sangya & Sarvanam", "nameLocal": "సంజ్ఞ & సర్వనామ", "displayOrder": 1}
+            ]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_6", "name": "Class 6", "nameLocal": "6వ తరగతి", "category": "SECONDARY", "displayOrder": 9, "iconEmoji": "6️⃣", "colorHex": "#4CAF50",
+      "subjects": [
+        {"id": "class_6_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+        {"id": "class_6_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+        {"id": "class_6_hindi", "name": "Hindi", "nameLocal": "హిందీ", "iconEmoji": "🇮🇳", "colorHex": "#E91E63", "displayOrder": 3, "chapters": []},
+        {"id": "class_6_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 4, "chapters": []},
+        {"id": "class_6_science", "name": "Science", "nameLocal": "సైన్స్", "iconEmoji": "🔬", "colorHex": "#FF9800", "displayOrder": 5, "chapters": []},
+        {"id": "class_6_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 6, "chapters": []}
+      ]
+    },
+    {"id": "class_7", "name": "Class 7", "nameLocal": "7వ తరగతి", "category": "SECONDARY", "displayOrder": 10, "iconEmoji": "7️⃣", "colorHex": "#8BC34A", "subjects": [
+      {"id": "class_7_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+      {"id": "class_7_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+      {"id": "class_7_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+      {"id": "class_7_science", "name": "Science", "nameLocal": "సైన్స్", "iconEmoji": "🔬", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []},
+      {"id": "class_7_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 5, "chapters": []}
+    ]},
+    {"id": "class_8", "name": "Class 8", "nameLocal": "8వ తరగతి", "category": "SECONDARY", "displayOrder": 11, "iconEmoji": "8️⃣", "colorHex": "#CDDC39", "subjects": [
+      {"id": "class_8_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+      {"id": "class_8_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+      {"id": "class_8_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+      {"id": "class_8_physics", "name": "Physics", "nameLocal": "భౌతిక శాస్త్రం", "iconEmoji": "⚡", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []},
+      {"id": "class_8_biology", "name": "Biology", "nameLocal": "జీవ శాస్త్రం", "iconEmoji": "🧬", "colorHex": "#4CAF50", "displayOrder": 5, "chapters": []},
+      {"id": "class_8_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 6, "chapters": []}
+    ]},
+    {"id": "class_9", "name": "Class 9", "nameLocal": "9వ తరగతి", "category": "SECONDARY", "displayOrder": 12, "iconEmoji": "9️⃣", "colorHex": "#FFC107", "subjects": [
+      {"id": "class_9_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+      {"id": "class_9_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+      {"id": "class_9_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+      {"id": "class_9_physics", "name": "Physics", "nameLocal": "భౌతిక శాస్త్రం", "iconEmoji": "⚡", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []},
+      {"id": "class_9_biology", "name": "Biology", "nameLocal": "జీవ శాస్త్రం", "iconEmoji": "🧬", "colorHex": "#4CAF50", "displayOrder": 5, "chapters": []},
+      {"id": "class_9_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 6, "chapters": []}
+    ]},
+    {"id": "class_10", "name": "Class 10", "nameLocal": "10వ తరగతి", "category": "SECONDARY", "displayOrder": 13, "iconEmoji": "🔟", "colorHex": "#FF9800", "subjects": [
+      {"id": "class_10_telugu", "name": "Telugu", "nameLocal": "తెలుగు", "iconEmoji": "📝", "colorHex": "#FF5722", "displayOrder": 1, "chapters": []},
+      {"id": "class_10_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 2, "chapters": []},
+      {"id": "class_10_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 3, "chapters": []},
+      {"id": "class_10_physics", "name": "Physics", "nameLocal": "భౌతిక శాస్త్రం", "iconEmoji": "⚡", "colorHex": "#FF9800", "displayOrder": 4, "chapters": []},
+      {"id": "class_10_biology", "name": "Biology", "nameLocal": "జీవ శాస్త్రం", "iconEmoji": "🧬", "colorHex": "#4CAF50", "displayOrder": 5, "chapters": []},
+      {"id": "class_10_social", "name": "Social Studies", "nameLocal": "సాంఘిక శాస్త్రం", "iconEmoji": "🌐", "colorHex": "#795548", "displayOrder": 6, "chapters": []}
+    ]},
+    {"id": "inter_1", "name": "Inter 1st Year", "nameLocal": "ఇంటర్ 1వ సంవత్సరం", "category": "HIGHER_SECONDARY", "displayOrder": 14, "iconEmoji": "🎓", "colorHex": "#FF5722", "subjects": [
+      {"id": "inter_1_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 1, "chapters": []},
+      {"id": "inter_1_physics", "name": "Physics", "nameLocal": "భౌతిక శాస్త్రం", "iconEmoji": "⚡", "colorHex": "#FF9800", "displayOrder": 2, "chapters": []},
+      {"id": "inter_1_chemistry", "name": "Chemistry", "nameLocal": "రసాయన శాస్త్రం", "iconEmoji": "🧪", "colorHex": "#9C27B0", "displayOrder": 3, "chapters": []},
+      {"id": "inter_1_biology", "name": "Biology", "nameLocal": "జీవ శాస్త్రం", "iconEmoji": "🧬", "colorHex": "#4CAF50", "displayOrder": 4, "chapters": []},
+      {"id": "inter_1_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 5, "chapters": []}
+    ]},
+    {"id": "inter_2", "name": "Inter 2nd Year", "nameLocal": "ఇంటర్ 2వ సంవత్సరం", "category": "HIGHER_SECONDARY", "displayOrder": 15, "iconEmoji": "🎓", "colorHex": "#795548", "subjects": [
+      {"id": "inter_2_maths", "name": "Mathematics", "nameLocal": "గణితం", "iconEmoji": "🔢", "colorHex": "#4CAF50", "displayOrder": 1, "chapters": []},
+      {"id": "inter_2_physics", "name": "Physics", "nameLocal": "భౌతిక శాస్త్రం", "iconEmoji": "⚡", "colorHex": "#FF9800", "displayOrder": 2, "chapters": []},
+      {"id": "inter_2_chemistry", "name": "Chemistry", "nameLocal": "రసాయన శాస్త్రం", "iconEmoji": "🧪", "colorHex": "#9C27B0", "displayOrder": 3, "chapters": []},
+      {"id": "inter_2_biology", "name": "Biology", "nameLocal": "జీవ శాస్త్రం", "iconEmoji": "🧬", "colorHex": "#4CAF50", "displayOrder": 4, "chapters": []},
+      {"id": "inter_2_english", "name": "English", "nameLocal": "ఇంగ్లీష్", "iconEmoji": "📖", "colorHex": "#2196F3", "displayOrder": 5, "chapters": []}
+    ]},
+    {"id": "degree_1", "name": "Degree 1st Year", "nameLocal": "డిగ్రీ 1వ సంవత్సరం", "category": "DEGREE", "displayOrder": 16, "iconEmoji": "🏛️", "colorHex": "#607D8B", "subjects": []},
+    {"id": "degree_2", "name": "Degree 2nd Year", "nameLocal": "డిగ్రీ 2వ సంవత్సరం", "category": "DEGREE", "displayOrder": 17, "iconEmoji": "🏛️", "colorHex": "#455A64", "subjects": []},
+    {"id": "degree_3", "name": "Degree 3rd Year", "nameLocal": "డిగ్రీ 3వ సంవత్సరం", "category": "DEGREE", "displayOrder": 18, "iconEmoji": "🏛️", "colorHex": "#37474F", "subjects": []}
+  ]
+}
